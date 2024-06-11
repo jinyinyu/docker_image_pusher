@@ -1,3 +1,9 @@
 chishin/nginx-proxy-manager-zh:latest
 deluan/navidrome:latest
 photoprism/photoprism:latest
+nyanmisaka/jellyfin:latest
+vaultwarden/server:latest
+syncthing/syncthing:latest
+jeessy/ddns-go:latest
+adguard/adguardhome:latest
+linuxserver/qbittorrent:latest
