@@ -1,2 +1,3 @@
 chishin/nginx-proxy-manager-zh:latest
 deluan/navidrome:latest
+photoprism/photoprism:latest
