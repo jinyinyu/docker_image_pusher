@@ -7,3 +7,7 @@ syncthing/syncthing:latest
 jeessy/ddns-go:latest
 adguard/adguardhome:latest
 linuxserver/qbittorrent:latest
+gitea/gitea:latest
+library/postgres:15.5
+onlyoffice/documentserver:latest
+nextcloud:latest
