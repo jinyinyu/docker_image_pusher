@@ -11,3 +11,4 @@ gitea/gitea:latest
 library/postgres:15.5
 onlyoffice/documentserver:latest
 nextcloud:latest
+linuxserver/mariadb:latest
