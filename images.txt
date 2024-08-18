@@ -1,6 +1,15 @@
-nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+nextcloud:latest
+nyanmisaka/jellyfin:latest
+vaultwarden/server:latest
+jeessy/ddns-go:latest
+adguard/adguardhome:latest
+redislabs/redisinsight:1.14.0
+library/postgres:15.5
+gitea/gitea:latest
+onlyoffice/documentserver:latest
+deluan/navidrome:latest
+linuxserver/qbittorrent:latest
+photoprism/photoprism:latest
+syncthing/syncthing:latest
+chishin/nginx-proxy-manager-zh:release
+linuxserver/mariadb:latest
