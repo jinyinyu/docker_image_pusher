@@ -13,3 +13,4 @@ photoprism/photoprism:latest
 syncthing/syncthing:latest
 chishin/nginx-proxy-manager-zh:release
 linuxserver/mariadb:latest
+bitnami/redis:7.2.4
