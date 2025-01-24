@@ -12,6 +12,6 @@ linuxserver/qbittorrent:latest
 photoprism/photoprism:latest
 chishin/nginx-proxy-manager-zh:release
 linuxserver/mariadb:latest
-bitnami/redis:latest
+bitnami/redis:7.4.2
 herberthe0229/iptv-sources:latest
 syncthing/syncthing:latest
