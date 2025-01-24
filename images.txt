@@ -10,7 +10,6 @@ onlyoffice/documentserver:latest
 deluan/navidrome:latest
 linuxserver/qbittorrent:latest
 photoprism/photoprism:latest
-linuxserver/syncthing:latest
 chishin/nginx-proxy-manager-zh:release
 linuxserver/mariadb:latest
 bitnami/redis:latest
