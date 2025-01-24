@@ -15,3 +15,4 @@ chishin/nginx-proxy-manager-zh:release
 linuxserver/mariadb:latest
 bitnami/redis:latest
 herberthe0229/iptv-sources:latest
+syncthing/syncthing:latest
