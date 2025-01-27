@@ -1,4 +1,4 @@
-nextcloud:latest
+nextcloud:28.0.14
 nyanmisaka/jellyfin:latest
 vaultwarden/server:latest
 jeessy/ddns-go:latest
