@@ -16,3 +16,4 @@ bitnami/redis:7.4.2
 herberthe0229/iptv-sources:latest
 syncthing/syncthing:latest
 collabora/code:latest
+6053537/portainer-ce:latest
