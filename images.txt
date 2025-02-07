@@ -17,3 +17,4 @@ herberthe0229/iptv-sources:latest
 syncthing/syncthing:latest
 collabora/code:latest
 6053537/portainer-ce:latest
+nextcloud/all-in-one:latest
