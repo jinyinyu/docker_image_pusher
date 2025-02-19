@@ -19,3 +19,4 @@ collabora/code:latest
 6053537/portainer-ce:latest
 nextcloud/all-in-one:latest
 linuxserver/jackett:latest
+linuxserver/qbittorrent:latest
