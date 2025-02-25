@@ -4,7 +4,7 @@ vaultwarden/server:latest
 jeessy/ddns-go:latest
 adguard/adguardhome:latest
 redislabs/redisinsight:1.14.0
-library/postgres:15.5
+postgres:latest
 gitea/gitea:latest
 onlyoffice/documentserver:latest
 deluan/navidrome:latest
@@ -20,3 +20,4 @@ collabora/code:latest
 nextcloud/all-in-one:latest
 linuxserver/jackett:latest
 linuxserver/qbittorrent:latest
+dpage/pgadmin4:latest
