@@ -21,3 +21,4 @@ nextcloud/all-in-one:latest
 linuxserver/jackett:latest
 linuxserver/qbittorrent:latest
 dpage/pgadmin4:latest
+ghcr.io/immich-app/immich-server:release
