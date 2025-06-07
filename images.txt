@@ -22,3 +22,5 @@ linuxserver/jackett:latest
 linuxserver/qbittorrent:latest
 dpage/pgadmin4:latest
 ghcr.io/immich-app/immich-server:release
+ghcr.io/tensorchord/vchord-postgres:pg17-v0.4.2
+ghcr.io/imagegenius/immich:latest
