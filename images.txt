@@ -5,7 +5,6 @@ jeessy/ddns-go:latest
 adguard/adguardhome:latest
 redislabs/redisinsight:1.14.0
 postgres:latest
-gitea/gitea:latest
 onlyoffice/documentserver:latest
 deluan/navidrome:latest
 linuxserver/qbittorrent:latest
@@ -22,5 +21,5 @@ linuxserver/jackett:latest
 linuxserver/qbittorrent:latest
 dpage/pgadmin4:latest
 ghcr.io/immich-app/immich-server:release
-ghcr.io/tensorchord/vchord-postgres:pg17-v0.4.2
+ghcr.io/tensorchord/vchord-postgres:pg17-v0.3.0
 ghcr.io/imagegenius/immich:latest
