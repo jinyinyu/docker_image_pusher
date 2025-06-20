@@ -1,13 +1,7 @@
 nextcloud:latest
-nyanmisaka/jellyfin:latest
-vaultwarden/server:latest
-jeessy/ddns-go:latest
-adguard/adguardhome:latest
 redislabs/redisinsight:1.14.0
 onlyoffice/documentserver:latest
-deluan/navidrome:latest
 linuxserver/qbittorrent:latest
-photoprism/photoprism:latest
 chishin/nginx-proxy-manager-zh:release
 linuxserver/mariadb:latest
 bitnami/redis:7.4.2
