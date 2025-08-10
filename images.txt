@@ -1,13 +1,9 @@
-nextcloud:latest
 redislabs/redisinsight:1.14.0
-onlyoffice/documentserver:latest
 linuxserver/qbittorrent:latest
-chishin/nginx-proxy-manager-zh:release
 linuxserver/mariadb:latest
 bitnami/redis:7.4.2
 syncthing/syncthing:latest
 linuxserver/jackett:latest
-dpage/pgadmin4:latest
 ghcr.io/immich-app/immich-server:release
 ghcr.io/tensorchord/vchord-postgres:pg17-v0.3.0
 ghcr.io/imagegenius/immich:latest
