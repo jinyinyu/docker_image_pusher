@@ -1,7 +1,6 @@
 redislabs/redisinsight:1.14.0
 linuxserver/qbittorrent:latest
 linuxserver/mariadb:latest
-bitnami/redis:7.4.2
 syncthing/syncthing:latest
 linuxserver/jackett:latest
 ghcr.io/immich-app/immich-server:release
