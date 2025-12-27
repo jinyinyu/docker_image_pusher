@@ -1,8 +1,5 @@
 redislabs/redisinsight:1.14.0
-linuxserver/qbittorrent:latest
-linuxserver/mariadb:latest
-syncthing/syncthing:latest
-linuxserver/jackett:latest
-ghcr.io/immich-app/immich-server:release
 ghcr.io/tensorchord/vchord-postgres:pg17-v0.3.0
 ghcr.io/imagegenius/immich:latest
+bitnami/redis:7.4.2
+postgres:17.4
